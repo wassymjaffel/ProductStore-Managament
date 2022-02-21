@@ -1,0 +1,13 @@
+C:\Users\wassy\Desktop\ProductStore\ProductStore\PS.Service\bin\Debug\netcoreapp3.1\PS.Service.deps.json
+C:\Users\wassy\Desktop\ProductStore\ProductStore\PS.Service\bin\Debug\netcoreapp3.1\PS.Service.dll
+C:\Users\wassy\Desktop\ProductStore\ProductStore\PS.Service\bin\Debug\netcoreapp3.1\PS.Service.pdb
+C:\Users\wassy\Desktop\ProductStore\ProductStore\PS.Service\bin\Debug\netcoreapp3.1\PS.Domain.dll
+C:\Users\wassy\Desktop\ProductStore\ProductStore\PS.Service\bin\Debug\netcoreapp3.1\PS.Domain.pdb
+C:\Users\wassy\Desktop\ProductStore\ProductStore\PS.Service\obj\Debug\netcoreapp3.1\PS.Service.csproj.AssemblyReference.cache
+C:\Users\wassy\Desktop\ProductStore\ProductStore\PS.Service\obj\Debug\netcoreapp3.1\PS.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wassy\Desktop\ProductStore\ProductStore\PS.Service\obj\Debug\netcoreapp3.1\PS.Service.AssemblyInfoInputs.cache
+C:\Users\wassy\Desktop\ProductStore\ProductStore\PS.Service\obj\Debug\netcoreapp3.1\PS.Service.AssemblyInfo.cs
+C:\Users\wassy\Desktop\ProductStore\ProductStore\PS.Service\obj\Debug\netcoreapp3.1\PS.Service.csproj.CoreCompileInputs.cache
+C:\Users\wassy\Desktop\ProductStore\ProductStore\PS.Service\obj\Debug\netcoreapp3.1\PS.Service.csproj.CopyComplete
+C:\Users\wassy\Desktop\ProductStore\ProductStore\PS.Service\obj\Debug\netcoreapp3.1\PS.Service.dll
+C:\Users\wassy\Desktop\ProductStore\ProductStore\PS.Service\obj\Debug\netcoreapp3.1\PS.Service.pdb

@@ -1,0 +1,11 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\ProductStore",
+    "\\ProductStore\\PS.Console",
+    "\\ProductStore\\PS.Domain",
+    "\\ProductStore\\PS.Service"
+  ],
+  "SelectedNode": "\\ProductStore\\ProductStore.sln",
+  "PreviewInSolutionExplorer": false
+}
